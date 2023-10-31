@@ -37,7 +37,8 @@ This project involves using SQL to solve business problems based on the Adventur
 
 # you can access the dataset with answers to the 7 questions addressed in this project. 
 In addition to the project details and SQL queries provided in this readme file,
-The dataset is available at the following link: [https://docs.google.com/spreadsheets/d/100XarIt2YUaL_5Idbx6bj0V5az0FpDKEZsV7ymK4xTg/edit?usp=sharing]. This dataset includes the SQL query results for each question, enabling you to review the findings and explore the project's outcomes.
+[The dataset is available at the following link:](https://docs.google.com/spreadsheets/d/100XarIt2YUaL_5Idbx6bj0V5az0FpDKEZsV7ymK4xTg/edit?usp=sharing)
+This dataset includes the SQL query results for each question, enabling you to review the findings and explore the project's outcomes.
 
 
 
