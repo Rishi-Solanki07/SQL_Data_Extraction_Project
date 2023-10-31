@@ -35,6 +35,9 @@ This project involves using SQL to solve business problems based on the Adventur
 2. **Presentation:** Create a PowerPoint or Google Slides presentation. For each problem statement, add a slide that includes a summary and a chart format displaying the data findings. You can build the charts directly on the slide or use Excel/Google Sheets. Each slide should provide a few points on the findings from the data and a chart depicting the output.
 
 
+# you can access the dataset with answers to the 7 questions addressed in this project. 
+In addition to the project details and SQL queries provided in this readme file,
+The dataset is available at the following link: [https://docs.google.com/spreadsheets/d/100XarIt2YUaL_5Idbx6bj0V5az0FpDKEZsV7ymK4xTg/edit?usp=sharing]. This dataset includes the SQL query results for each question, enabling you to review the findings and explore the project's outcomes.
 
 
 
