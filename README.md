@@ -3,7 +3,7 @@
 
 This project involves using SQL to solve business problems based on the Adventureworks dataset. Below are the details of the project:
 
-**Database:** The project uses the **Adventureworks dataset**, a practical dataset covering various aspects, including Sales, Products, Employees, Territory, and Customers, among others. A **database diagram** is provided for a better understanding of the data. You can access the data from [this link](https://drive.google.com/drive/folders/1xfxDt8xuLbaPEYqzQC5frds9THx8oYW2?usp=sharing).
+**Database:** The project uses the **Adventureworks dataset**, a practical dataset covering various aspects, including Sales, Products, Employees, Territory, and Customers, among others. A **database diagram** is provided for a better understanding of the data. You can access the data from [this link]([https://drive.google.com/drive/folders/1xfxDt8xuLbaPEYqzQC5frds9THx8oYW2?usp=sharing](https://drive.google.com/file/d/18L_yLy08RbhVNIv7TeRktZpBQ95IirKx/view?usp=sharing)).
 
 
 # Problem Statement:** The project involves solving seven business problem statements by writing SQL queries. The output data from these queries will be used to create charts. Here's an overview of the problem statements:
