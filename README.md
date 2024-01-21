@@ -6,7 +6,7 @@ This project involves using SQL to solve business problems based on the Adventur
 **Database:** The project uses the **Adventureworks dataset**, a practical dataset covering various aspects, including Sales, Products, Employees, Territory, and Customers, among others. A **database diagram** is provided for a better understanding of the data. You can access the data from [this link](https://drive.google.com/file/d/18L_yLy08RbhVNIv7TeRktZpBQ95IirKx/view?usp=sharing)
 
 
-# Problem Statement:** The project involves solving seven business problem statements by writing SQL queries. The output data from these queries will be used to create charts. Here's an overview of the problem statements:
+# Problem Statement: The project involves solving seven business problem statements by writing SQL queries. The output data from these queries will be used to create charts. Here's an overview of the problem statements
 
 1. **What are the top 10 highest selling products in the database?**
    - Use the `salesorderdetail` table as the base table, with `LineTotal` as Sales. Create a Pie chart to depict this information.
