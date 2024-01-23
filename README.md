@@ -42,7 +42,7 @@ Feel free to explore the provided links to understand the project data, visualiz
 
 
 
-# 7 Require info as per the instructions  
+# 7 Adventure Works SQL: Extracting 7 Important Insights  
 
 1. **What are the top 10 highest selling products in the database?**
    - Use the `salesorderdetail` table as the base table, with `LineTotal` as Sales. Create a Pie chart to depict this information.
