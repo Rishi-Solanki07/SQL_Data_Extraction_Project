@@ -29,19 +29,21 @@ Execute SQL queries provided in the code file to extract information.
 **Presenting Insights**: Leverage Power BI features such as tooltips, color combinations, and dynamic information for effective presentation.
 
 # Skills Demonstrated
-SQL Coding Proficiency
+**SQL Coding Proficiency**
 
-Data Mining and Extraction
+**Data Mining and Extraction**
 
-Excel and Power BI Skills
+**Excel and Power BI Skills**
 
-Data Visualization Techniques
+**Data Visualization Techniques**
+
+
 
 Feel free to explore the provided links to understand the project data, visualizations, and database relationships
 
 
 
-# 7 Adventure Works SQL: Extracting 7 Important Insights  
+# Adventure Works SQL: Extracting 7 Important Insights  
 
 1. **What are the top 10 highest selling products in the database?**
    - Use the `salesorderdetail` table as the base table, with `LineTotal` as Sales. Create a Pie chart to depict this information.
