@@ -19,8 +19,7 @@
 **Relational Database Wiring**: [Link](https://drive.google.com/file/d/1NAGZs3hk9nRK219rd3zZvN28oMHmYqSL/view?usp=sharing)  Wiring Diagram - Illustrates the connections between tables.
 
 # Steps to Replicate
-**Data Extraction**:
-Execute SQL queries provided in the code file to extract information.
+**Data Extraction**:Execute SQL queries provided in the code file to extract information.
 
 **Export to Excel**:Save the SQL code file and export results to Excel.
 
