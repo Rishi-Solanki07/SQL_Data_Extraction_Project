@@ -13,11 +13,11 @@
 **Power BI Visualization**: Creating dynamic dashboards with Power BI to present insights effectively.
 
 # Project Steps
-**Google Sheet Data**: Link to Google Sheet - Contains data for all seven questions.
+**Google Sheet Data**: [Link](https://docs.google.com/spreadsheets/d/17-x9ozWj16JIQFqjRKWPnqndIJGfWqTi/edit?usp=sharing&ouid=101082540720314963908&rtpof=true&sd=true) to Google Sheet - Contains data for all seven questions.
 
-**Power BI Dashboard**: Link to Power BI Dashboard (PDF Format) - Visual representation of extracted insights.
+**Power BI Dashboard**: [Link](https://drive.google.com/file/d/1QLEpVT0yPT9-yLHDkpaskiL_158c0qee/view?usp=sharing) to Power BI Dashboard (PDF Format) - Visual representation of extracted insights.
 
-**Relational Database Wiring**: Relational Database Wiring Diagram - Illustrates the connections between tables.
+**Relational Database Wiring**: [Link](https://drive.google.com/file/d/1NAGZs3hk9nRK219rd3zZvN28oMHmYqSL/view?usp=sharing)  Wiring Diagram - Illustrates the connections between tables.
 
 # Steps to Replicate
 **Data Extraction**:
