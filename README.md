@@ -1,7 +1,6 @@
 # SQL Data Extraction Project
-  Overview
- This project focuses on extracting valuable insights from the Adventure Works database using SQL queries.
- The extracted data is further processed, visualized, and presented using Power BI.
+  
+ **This project focuses on extracting valuable insights from the Adventure Works database using SQL queries.The extracted data is further processed, visualized, and presented using Power BI.**
 
 # Key Features
 **Data Extraction**: Utilizing SQL queries to extract specific information from the Adventure Works database.
