@@ -1,12 +1,47 @@
+# SQL Data Extraction Project
+  Overview
+ This project focuses on extracting valuable insights from the Adventure Works database using SQL queries. The extracted data is further processed, visualized, and presented using Power BI.
 
-# SQL Project – Adventureworks**
+# Key Features
+Data Extraction: Utilizing SQL queries to extract specific information from the Adventure Works database.
+Coding Skills: Implementation of sub-queries, concatenation, joins, mathematical operations, ranking, and dense ranking.
+Export to Excel: Exporting SQL query results to Excel for further analysis.
+Power BI Visualization: Creating dynamic dashboards with Power BI to present insights effectively.
 
-This project involves using SQL to solve business problems based on the Adventureworks dataset. Below are the details of the project:
+# Project Steps
+Google Sheet Data:
+Link to Google Sheet - Contains data for all seven questions.
 
-**Database:** The project uses the **Adventureworks dataset**, a practical dataset covering various aspects, including Sales, Products, Employees, Territory, and Customers, among others. A **database diagram** is provided for a better understanding of the data. You can access the data from [this link](https://drive.google.com/file/d/18L_yLy08RbhVNIv7TeRktZpBQ95IirKx/view?usp=sharing)
+Power BI Dashboard:
+Link to Power BI Dashboard (PDF Format) - Visual representation of extracted insights.
+
+Relational Database Wiring:
+Relational Database Wiring Diagram - Illustrates the connections between tables.
+
+# Steps to Replicate
+Data Extraction:
+Execute SQL queries provided in the code file to extract information.
+
+Export to Excel:
+Save the SQL code file and export results to Excel.
+
+**Power BI Visualization**:
+Import the Excel file into Power BI.
+Apply data transformation, create visualizations, and design dashboards.
+
+Presenting Insights:
+Leverage Power BI features such as tooltips, color combinations, and dynamic information for effective presentation.
+
+# Skills Demonstrated
+SQL Coding Proficiency
+Data Mining and Extraction
+Excel and Power BI Skills
+Data Visualization Techniques
+Feel free to explore the provided links to understand the project data, visualizations, and database relationships
 
 
-# Problem Statement: The project involves solving seven business problem statements by writing SQL queries. The output data from these queries will be used to create charts. Here's an overview of the problem statements
+
+# 7 Require info as per the instructions  
 
 1. **What are the top 10 highest selling products in the database?**
    - Use the `salesorderdetail` table as the base table, with `LineTotal` as Sales. Create a Pie chart to depict this information.
@@ -29,7 +64,5 @@ This project involves using SQL to solve business problems based on the Adventur
 7. **Calculate the count of employees and average tenure per department name and department group name.**
    - Create a table to depict this information.
 
-# Deliverables: The project requires you to prepare the following deliverables:
 
-1. **SQL query file:** This file should include the SQL queries used to generate the data to solve each problem statement.
-2. **Presentation:** Create a PowerPoint or Google Slides presentation. For each problem statement, add a slide that includes a summary and a chart format displaying the data findings. You can build the charts directly on the slide or use Excel/Google Sheets. Each slide should provide a few points on the findings from the data and a chart depicting the output.
+
